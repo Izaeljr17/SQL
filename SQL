@@ -1,0 +1,10 @@
+--SELECT * FROM alunos WHERE idade = 22
+--SELECT * FROM alunos WHERE curso = 'Ciência da Computação'
+SELECT * FROM alunos
+--SELECT * FROM alunos
+--SELECT * FROM alunos
+--SELECT * FROM alunos
+--SELECT * FROM alunos
+--SELECT * FROM alunos
+--SELECT * FROM alunos
+--SELECT * FROM alunos
