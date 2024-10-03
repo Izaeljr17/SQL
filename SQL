@@ -1,10 +1,9 @@
 --SELECT * FROM alunos WHERE idade = 22
 --SELECT * FROM alunos WHERE curso = 'Ciência da Computação'
-SELECT * FROM alunos
+--SELECT * FROM alunos WHERE idade > 18
+--SELECT * FROM alunos WHERE nome = 'Diego Costa'
+--SELECT * FROM alunos WHERE turma = '3C'
 --SELECT * FROM alunos
---SELECT * FROM alunos
---SELECT * FROM alunos
---SELECT * FROM alunos
---SELECT * FROM alunos
---SELECT * FROM alunos
---SELECT * FROM alunos
+--SELECT * FROM alunos WHERE curso = 'Análise e Desenvolvimento de Sistemas'
+--SELECT * FROM alunos WHERE curso = 'Análise e Desenvolvimento de Sistemas' OR idade = 18
+--SELECT * FROM alunos WHERE turma = '1A'
